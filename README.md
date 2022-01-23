@@ -14,4 +14,5 @@ Finally, we collect all this information and create a dataset for the same and s
 
 Results and Insights from this step are posted on the link provided below.
 Link to Blog Post - https://www.cloudanix.com/blog/the-devops-jobs-report/
-Full Working Code is in the file [Devops Job Report.ipynb][https://github.com/kedarghule/DevOps-Jobs-Report/blob/main/Devops%20Job%20Report.ipynb]
+
+Full Working Code is in the file [https://github.com/kedarghule/DevOps-Jobs-Report/blob/main/Devops%20Job%20Report.ipynb][Devops Job Report.ipynb]
